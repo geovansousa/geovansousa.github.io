@@ -43,7 +43,7 @@ social-network-links:
 #  facebook: deanattali
   github: "geovanjr"
   twitter: "geovanjr"
-  rss: true
+  rss: false
 #  reddit: yourname
 #  linkedin: daattali
 #  xing: yourname
