@@ -1,5 +1,4 @@
 ---
-layout: post
 title: A cheatsheet for base R plot
 author: "Geovan"
 date: `r format(Sys.Date())`
