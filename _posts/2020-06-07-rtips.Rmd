@@ -1,5 +1,5 @@
 ---
-title: "Base R `plot()` cheatsheet"
+title: "Base R plot cheatsheet"
 author: "Geovan"
 date: "07/06/2020"
 output: html_document
