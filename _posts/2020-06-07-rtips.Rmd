@@ -1,12 +1,10 @@
 ---
 layout: post
 title: A cheatsheet for base R plot
----
----
-title: Base R `plot()` cheatsheet
 author: "Geovan"
 date: `r format(Sys.Date())`
-output: html_document
+output: 
+  html_document:
 ---
 
 <br>Useful base R parameters' cheatsheet avaiable in [R Graph Gallery](https://www.r-graph-gallery.com/base-R.html).
