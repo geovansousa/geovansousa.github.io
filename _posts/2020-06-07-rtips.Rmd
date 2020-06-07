@@ -1,5 +1,6 @@
 ---
 layout: post
+title: Base R `plot()` cheatsheet
 ---
 ---
 title: Base R `plot()` cheatsheet
