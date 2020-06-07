@@ -1,5 +1,6 @@
 ---
-title: "Base R `plot()` cheatsheet"
+layout: post
+title: Base R `plot()` cheatsheet
 author: "Geovan"
 date: `r format(Sys.Date())`
 output:
