@@ -7,7 +7,7 @@ Useful base R parameters' cheatsheet avaiable in [R Graph Gallery](https://www.r
 
 #### About parameters such as `pch`, `cex` and `col`.
 
-```{r}
+```
 # initialization
 par(mar=c(3,3,3,3))
 num <- 0 
@@ -45,7 +45,7 @@ axis(2, at = c(1,2,3,4,5,6), labels = c("pch" , "col" , "cex" , "lty", "type" , 
 
 #### For inner (`mar`) and outer (`oma`) margins
 
-```{r}
+```
 # Margins area
 par(oma=c(3,3,3,3)) # all sides have 3 lines of space
 par(mar=c(5,4,4,2) + 0.1)
