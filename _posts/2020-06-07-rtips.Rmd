@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Base R `plot()` cheatsheet
+title: A cheatsheet for base R plot
 ---
 ---
 title: Base R `plot()` cheatsheet
@@ -11,7 +11,7 @@ output: html_document
 
 <br>Useful base R parameters' cheatsheet avaiable in [R Graph Gallery](https://www.r-graph-gallery.com/base-R.html).
 
-```{r echo=F, fig.show='hold', out.width=c('50%', '50%'), fig.height=6, fig.width=6}
+```{r fig.show='hold', out.width=c('50%', '50%'), fig.height=6, fig.width=6}
 
 # initialization
 par(mar=c(3,3,3,3))
