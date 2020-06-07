@@ -7,9 +7,9 @@ output:
   html_document:
 ---
 
-<br>Useful base R parameters' cheatsheet avaiable in [R Graph Gallery](https://www.r-graph-gallery.com/base-R.html).
+Useful base R parameters' cheatsheet avaiable in [R Graph Gallery](https://www.r-graph-gallery.com/base-R.html).
 
-```{r fig.show='hold', out.width=c('50%', '50%'), fig.height=6, fig.width=6}
+```{r}
 
 # initialization
 par(mar=c(3,3,3,3))
