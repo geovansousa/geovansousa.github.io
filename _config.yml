@@ -14,19 +14,7 @@ author: Geovan Sousa
 navbar-links:
   About Me:
     - Bio: "aboutme"
-    #- CV: "http://tvpollet.github.io/CV.pdf"
     #- Contact: "contact"
-    #- Twitter: "twitter"
-  #Research:
-  #  - Papers List: "papers"
-  #  - Open Science Framework: "https://osf.io/v6cn3/"
-  #Teaching:
-  #  - Courses taught: "courses_taught"
-  #  - Thesis Projects: "thesis_projects"
-  #  - Calendar: "calendar"
-  #  - Open Science Framework: "https://osf.io/v6cn3/"
-  #  - Meta-Analysis workshop: "Meta-analysis_course"
-  #Disclaimer: "disclaimer"
 
 # --- Logo --- #
 
@@ -65,20 +53,6 @@ author:
   #telephone: yourphone   # eg. +14159998888
   googlescholar: "https://scholar.google.com/citations?user=iCszQcwAAAAJ&hl=pt-BR&authuser=1"
   rss: false
-#  reddit: yourname
-#  linkedin: daattali
-#  xing: yourname
-#  stackoverflow: "3943160/daattali"
-#  snapchat: deanat78
-#  instagram: deanat78
-#  youtube: user/deanat78
-#  spotify: yourname
-#  telephone: +14159998888
-#  steam: deanat78
-#  twitch: yourname
-#  yelp: yourname
-#  telegram: yourname
-#  calendly: yourname
 
 # --- General options --- #
 
