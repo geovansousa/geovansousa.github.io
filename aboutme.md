@@ -8,5 +8,5 @@ I am Geovan Sousa, a neuroscientist interested in the neuroendocrine mechanisms 
 
 ### Degrees
 
-- MD in Neuroscience ([Brain Institute]("http://neuro.ufrn.br/"), UFRN-Brazil, 2020)
+- MD in Neuroscience ([Brain Institute](http://neuro.ufrn.br/), UFRN-Brazil, 2020)
 - Graduation in Biological Sciences (UFRN-Brazil, 2018)
