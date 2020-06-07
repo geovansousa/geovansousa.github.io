@@ -42,17 +42,17 @@ author:
   #facebook: yourname  # eg. daattali
   github: geovanjr    # eg. daattali
   twitter: geovanjr   # eg. daattali
-  reddit: yourname    # eg. daattali
-  google-plus: +yourname   # eg. +DeanAttali or 109424658772469020925
-  linkedin: yourname  # eg. daattali
-  xing: yourname      # eg. daattali
-  stackoverflow: yourlink  # eg. "3943160/daattali"
-  snapchat: yourname  # eg. daattali
+  #reddit: yourname    # eg. daattali
+  #google-plus: +yourname   # eg. +DeanAttali or 109424658772469020925
+  #linkedin: yourname  # eg. daattali
+  #xing: yourname      # eg. daattali
+  #stackoverflow: yourlink  # eg. "3943160/daattali"
+  #snapchat: yourname  # eg. daattali
   instagram: geovanjr # eg. daattali
-  youtube: yourlink   # eg. user/daattali or channel/daattali
-  spotify: yourname   # eg. daattali
-  telephone: yourphone   # eg. +14159998888
-  googlescholar: "https://scholar.google.com/citations?user=iCszQcwAAAAJ&hl=pt-BR&authuser=1"
+  #youtube: yourlink   # eg. user/daattali or channel/daattali
+  #spotify: yourname   # eg. daattali
+  #telephone: yourphone   # eg. +14159998888
+  #googlescholar: "https://scholar.google.com/citations?user=iCszQcwAAAAJ&hl=pt-BR&authuser=1"
   rss: false
   
 # Select which links to show in the footer
