@@ -2,12 +2,15 @@
 title: "Base R `plot()` cheatsheet"
 author: "Geovan"
 date: "07/06/2020"
-output: html_document
+output:
+  html_document:
+    toc: true
 ---
 
 <br>Useful base R parameters' cheatsheet avaiable in [R Graph Gallery](https://www.r-graph-gallery.com/base-R.html).
 
 ```{r echo=F, fig.show='hold', out.width=c('50%', '50%'), fig.height=6, fig.width=6}
+
 # initialization
 par(mar=c(3,3,3,3))
 num <- 0 
@@ -71,6 +74,5 @@ mtext("Line 0", side=1, line=0, adj=0.0, cex=1, col="blue", outer=TRUE)
 mtext("Line 1", side=1, line=1, adj=0.0, cex=1, col="blue", outer=TRUE)  
 mtext("Line 2", side=1, line=2, adj=0.0, cex=1, col="blue", outer=TRUE)  
 box("outer", col="blue")
-
 ```
 
