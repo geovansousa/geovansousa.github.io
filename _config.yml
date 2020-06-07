@@ -12,9 +12,10 @@ author: Geovan Sousa
 # --- List of links in the navigation bar --- #
 
 navbar-links:
-  About Me:
-    - Bio: "aboutme"
-    #- Contact: "contact"
+  About:
+    - About: "aboutme"
+    - Contact: "contact"
+  
 
 # --- Logo --- #
 
@@ -40,19 +41,38 @@ author:
   email: "geovanjr1@gmail.com"
   #facebook: yourname  # eg. daattali
   github: geovanjr    # eg. daattali
-  twitter: geovanjr   #tvpollet
-  #reddit: yourname    # eg. daattali
-  #google-plus: +yourname   # eg. +DeanAttali or 109424658772469020925
-  #linkedin: yourname  # eg. daattali
-  #xing: yourname      # eg. daattali
-  #stackoverflow: yourlink  # eg. "3943160/daattali"
-  #snapchat: yourname  # eg. daattali
-  #instagram: yourname # eg. daattali
-  #youtube: yourlink   # eg. user/daattali or channel/daattali
-  #spotify: yourname   # eg. daattali
-  #telephone: yourphone   # eg. +14159998888
+  twitter: geovanjr   # eg. daattali
+  reddit: yourname    # eg. daattali
+  google-plus: +yourname   # eg. +DeanAttali or 109424658772469020925
+  linkedin: yourname  # eg. daattali
+  xing: yourname      # eg. daattali
+  stackoverflow: yourlink  # eg. "3943160/daattali"
+  snapchat: yourname  # eg. daattali
+  instagram: geovanjr # eg. daattali
+  youtube: yourlink   # eg. user/daattali or channel/daattali
+  spotify: yourname   # eg. daattali
+  telephone: yourphone   # eg. +14159998888
   googlescholar: "https://scholar.google.com/citations?user=iCszQcwAAAAJ&hl=pt-BR&authuser=1"
   rss: false
+  
+# Select which links to show in the footer
+footer-links-active:
+  rss: false
+  facebook: false
+  email: true
+  twitter: true
+  google-plus: false
+  github: false
+  reddit: false
+  linkedin: false
+  xing: false
+  stackoverflow: false
+  snapchat: false
+  instagram: true
+  youtube: false
+  spotify: false
+  telephone: false
+  googlescholar: true
 
 # --- General options --- #
 
@@ -64,7 +84,7 @@ share-links-active:
 
 # How to display the link to your website in the footer
 # Remove this if you don't want a link in the footer
-#url-pretty: "MyWebsite.com"
+url-pretty: "geovanjr.github.io"
 
 # Create a "tags" index page and make tags on each post clickable
 link-tags: true
@@ -160,7 +180,7 @@ date_format: "%B %-d, %Y"
 # --- You don't need to touch anything below here (but you can if you want) --- #
 
 # Output options (more information on Jekyll's site)
-timezone: "America/Brazil"
+timezone: "Europe/London"
 markdown: kramdown
 highlighter: rouge
 permalink: /:year-:month-:day-:title/
