@@ -1,13 +1,13 @@
 ---
 layout: post
 title: A cheatsheet for base R plot
-author: "Geovan"
 ---
 
 Useful base R parameters' cheatsheet avaiable in [R Graph Gallery](https://www.r-graph-gallery.com/base-R.html).
 
-```{r}
+#### About parameters such as `pch`, `cex` and `col`.
 
+```{r}
 # initialization
 par(mar=c(3,3,3,3))
 num <- 0 
@@ -41,8 +41,11 @@ for (i in seq(1,20)){
 #add axis
 axis(2, at = c(1,2,3,4,5,6), labels = c("pch" , "col" , "cex" , "lty", "type" , "lwd" ), 
      tick = TRUE, col = "black", las = 1, cex.axis = 0.8)
+```
 
+#### For inner (`mar`) and outer (`oma`) margins
 
+```{r}
 # Margins area
 par(oma=c(3,3,3,3)) # all sides have 3 lines of space
 par(mar=c(5,4,4,2) + 0.1)
