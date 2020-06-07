@@ -3,8 +3,7 @@ layout: post
 title: A cheatsheet for base R plot
 author: "Geovan"
 date: `r format(Sys.Date())`
-output: 
-  html_document:
+output: html_document
 ---
 
 Useful base R parameters' cheatsheet avaiable in [R Graph Gallery](https://www.r-graph-gallery.com/base-R.html).
