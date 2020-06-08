@@ -13,7 +13,7 @@ layout: post
 
 <br>Useful base R parameters' cheatsheet avaiable in [R Graph Gallery](https://www.r-graph-gallery.com/base-R.html).
 
-```{r}
+```{r echo=FALSE}
 
 par(mar=c(3,3,3,3))
 num <- 0 
