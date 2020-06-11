@@ -72,7 +72,7 @@ share-links-active:
 url-pretty: "geovanjr"
 
 # Create a "tags" index page and make tags on each post clickable
-link-tags: true
+link-tags: false
 
 # Excerpt Word Length - Truncates the excerpt to the specified number of words on the index page
 excerpt_length: 50
