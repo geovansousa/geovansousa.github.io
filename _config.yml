@@ -80,13 +80,13 @@ excerpt_length: 50
 # --- Colours / background image --- #
 
 # Personalize the colors in your website. Colour values can be any valid CSS colour
-# default <- F5F5F5, 404040, EAEAEA, FFFFFF, 008AFF, F5F5F5, 777777, 404040
+# default <- F5F5F5, 404040, EAEAEA, FFFFFF, 008AFF, 0085A1, F5F5F5, 777777, 404040
 navbar-col: "#E6ECF5"
 navbar-text-col: "#312F2F"
-navbar-border-col: "#ABBFD8"
+navbar-border-col: "#E6ECF6"
 page-col: "#FFFFFF"
-link-col: "#8FCFF5"
-hover-col: "#B0C4DE"
+link-col: "#006ECC"
+hover-col: "#0085A1"
 footer-col: "#E6ECF5"
 footer-text-col: "#454242"
 footer-link-col: "#171616"
