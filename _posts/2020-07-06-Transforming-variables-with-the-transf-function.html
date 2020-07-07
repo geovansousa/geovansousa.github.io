@@ -369,7 +369,7 @@ summary {
 </div>
 
 
-<p>As I commented in a <a href="https://geovanjr.github.io/2020-06-19-A-function-for-easy-assessment-of-variables-normality/">previous post</a>, I am an R beginner with beginner needs. In that post I presented a function (<code>whos_norm</code>) that evaluates the normality of a set of variables on a data, based on Shapiro-Wilk test. Now, I will show you a function, somewhat complementary to <code>whos_norm</code>, called <code>transf</code>, that apply a transformation on a chosen variable and evaluates its normality after the transformation.</p>
+<p>As I commented in a <a href="https://geovanjr.github.io/2020-06-19-A-function-for-easy-assessment-of-variables-normality/">previous post</a>, I am an R beginner with beginner needs. In that post I presented a function (<code>whos_norm</code>) that evaluates the normality of a set of variables on a data, based on Shapiro-Wilk test. Now, I will show you a function, somewhat complementary to <code>whos_norm</code>, called <code>transf</code>, that applies a transformation on a chosen variable and evaluates its normality after the transformation.</p>
 <p>I know transformation may be a <em>baby thing</em> for some people, but sometimes it is not for who is starting. Actually, the interesting in using <code>transf</code> is the time saving.</p>
 <p>The <code>transf</code> function allows for several transformations, including <span class="math inline">\(log\)</span> (<span class="math inline">\(log_{2},~log_{10},~log_{e}\)</span>), z-score, square and cube roots, square, inverse and arcsine of the square root.</p>
 <p>So, assuming a variable <span class="math inline">\(\mathbf{x}\)</span>, what <code>transf</code> actually does is:</p>
