@@ -12,6 +12,7 @@ author: Geovan Sousa
 # --- List of links in the navigation bar --- #
 
 navbar-links:
+  Posts: "_posts"
   About: "aboutme"
   Curriculum:
     - Lattes: "http://lattes.cnpq.br/6569822719646528"
@@ -23,7 +24,7 @@ navbar-links:
 
 # Image to show in the navigation bar - works best with a square image
 # Remove this parameter if you don't want an image in the navbar
-avatar: "medium.jpg"
+# avatar: "medium.jpg"
 
 # By default, the image is cut into a circle. You can disable this behaviour here.
 round-avatar: false
@@ -81,7 +82,7 @@ excerpt_length: 50
 
 # Personalize the colors in your website. Colour values can be any valid CSS colour
 # default <- F5F5F5, 404040, EAEAEA, FFFFFF, 008AFF, 0085A1, F5F5F5, 777777, 404040
-navbar-col: "#E6ECF5"
+# navbar-col: "#E6ECF5"
 navbar-text-col: "#312F2F"
 navbar-border-col: "#E6ECF6"
 page-col: "#FFFFFF"
@@ -94,7 +95,7 @@ footer-link-col: "#171616"
 # Alternatively, the navbar, footer, and page background can be set to use background images
 # instead of colour
 
-#navbar-img: "/assets/img/bgimage.png"
+navbar-img: "/assets/img/img_med.jpg"
 #footer-img: "/assets/img/bgimage.png"
 #page-img: "/assets/img/bgimage.png"
 
