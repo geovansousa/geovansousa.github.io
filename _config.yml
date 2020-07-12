@@ -31,7 +31,7 @@ round-avatar: true
 
 # If you want to have an image logo in the top-left corner instead of the title text,
 # then specify the following parameter
-title-img: /assets/img/avatar
+title-img: /assets/img/avatar.jpg
 
 
 # --- Footer options --- #
@@ -95,7 +95,7 @@ footer-link-col: "#171616"
 # Alternatively, the navbar, footer, and page background can be set to use background images
 # instead of colour
 
-navbar-img: "/assets/img/img_med.jpg"
+# navbar-img: "/assets/img/img_med.jpg"
 #footer-img: "/assets/img/bgimage.png"
 #page-img: "/assets/img/bgimage.png"
 
