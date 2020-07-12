@@ -12,7 +12,7 @@ author: Geovan Sousa
 # --- List of links in the navigation bar --- #
 
 navbar-links:
-  Posts: "_posts"
+  Publications: "publications"
   About: "aboutme"
   Curriculum:
     - Lattes: "http://lattes.cnpq.br/6569822719646528"
