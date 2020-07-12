@@ -95,7 +95,7 @@ footer-link-col: "#171616"
 # Alternatively, the navbar, footer, and page background can be set to use background images
 # instead of colour
 
-#navbar-img: "/assets/img/img_med.jpg"
+navbar-img: "https://storage.needpix.com/rsynced_images/nodes-1427176_1280.png"
 #footer-img: "/assets/img/bgimage.png"
 #page-img: "/assets/img/bgimage.png"
 
