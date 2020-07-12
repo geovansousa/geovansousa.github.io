@@ -68,7 +68,7 @@ hr.small {
 :target:before { 
   content: "";
   display: block;
-  height: 6rem; /* navbar height */
+  height: 3.125rem; /* navbar height */
   margin: -3.125rem 0 0;
 }
 
@@ -235,7 +235,7 @@ img {
   }
 
   .navbar-custom .navbar-brand-logo img {
-    height: 6rem;
+    height: 3.125rem;
   }
 
   .navbar-expand-md .navbar-nav .nav-link {
