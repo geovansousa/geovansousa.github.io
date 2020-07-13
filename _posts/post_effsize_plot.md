@@ -2,7 +2,7 @@
 title: 'Calculate and plot effect size with effsize_plot'
 author: ''
 date: "12/07/2020"
-bibliography: packages.bib
+bibliography: 'packages.bib'
 ---
 
 
