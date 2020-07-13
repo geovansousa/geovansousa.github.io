@@ -373,7 +373,7 @@ summary {
 
 <div id="description" class="section level3">
 <h3>Description</h3>
-<p>Calculate and plot r and Cohen’s d effect size and its confidence intervals.</p>
+<p>Calculate and plot r and Cohen’s d/Hedges' g effect size and its confidence intervals.</p>
 </div>
 <div id="usage" class="section level3">
 <h3>Usage</h3>
@@ -389,7 +389,7 @@ summary {
 <div id="arguments" class="section level3">
 <h3>Arguments</h3>
 <p><code>x</code>, <code>g</code> dataframe and vector with numerical and factor variables, respectively.</p>
-<p><code>method</code> specify what effect size to compute: Wilcoxon r (<code>&#39;r&#39;</code>) or Cohen’s d (<code>&#39;d&#39;</code>).</p>
+<p><code>method</code> specify what effect size to compute: Wilcoxon r (<code>&#39;r&#39;</code>) or Cohen’s d (<code>&#39;d&#39;</code>). For Hedge's g, set <code>hedges.correction</code> to <code>TRUE</code> (see <code>par_d</code>).</p>
 <p><code>paired</code> logical. Wether the samples are paired.</p>
 <p><code>color</code>, <code>size</code> character or hexa specifying the errorbar and point colors, and size of points, respectively.</p>
 <p><code>width</code> width of errorbar brackets.</p>
