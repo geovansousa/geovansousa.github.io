@@ -2,10 +2,6 @@
 title: 'Calculate and plot effect size with effsize_plot'
 author: ''
 date: "12/07/2020"
-output: 
-  html_document: 
-    df_print: kable
-    keep_md: yes
 bibliography: packages.bib
 ---
 
