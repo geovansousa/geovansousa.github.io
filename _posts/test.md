@@ -14,6 +14,3 @@ s <- s + abs(rnorm(1))*sin(2*pi*15*t)
 plot(t,s, type = 'l', ylim=c(-3,3))
 lines(t[1e3:2e3], s[1e3:2e3], col='tomato')
 ```
-
-![](assets/img/test_files/figure-html/unnamed-chunk-1-1.png)
-
