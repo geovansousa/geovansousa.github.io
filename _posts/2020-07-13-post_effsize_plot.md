@@ -110,7 +110,7 @@ effsize_plot(df[,2:4], df[,1], method = 'r', paired = F, plot = T, show = T,
              par_r = list(R = 500))
 ```
 
-<img src="/assets/post_effsize_plot_files/figure-html/unnamed-chunk-5-1.png" style="display: block; margin: auto;" />
+![](/assets/img/post_effsize_plot_files/figure-html/unnamed-chunk-5-1.png)
 
 ```
 ##   variable      W      p        r   lower   upper
@@ -127,7 +127,7 @@ effsize_plot(df[,2:4], df[,1], method = 'd', paired = F, plot = T, show = T,
              color = 'forestgreen', size = 3, lty = 3, ggtheme = theme_light())
 ```
 
-<img src="/assets/post_effsize_plot_files/figure-html/unnamed-chunk-6-1.png" style="display: block; margin: auto;" />
+![](/assets/img/post_effsize_plot_files/figure-html/unnamed-chunk-6-1.png)
 
 ```
 ##   variable          t      p           d      lower      upper
@@ -145,7 +145,7 @@ effsize_plot(df[,2:4], df[,1], method = 'd', paired = F, plot = T, show = T,
              par_d = list(hedges.correction = TRUE))
 ```
 
-<img src="/assets/post_effsize_plot_files/figure-html/unnamed-chunk-7-1.png" style="display: block; margin: auto;" />
+![](/assets/img/post_effsize_plot_files/figure-html/unnamed-chunk-7-1.png)
 
 ```
 ##   variable          t      p           g      lower       upper
@@ -175,7 +175,7 @@ es$es_plot +
            size = 4, color = 'forestgreen')
 ```
 
-<img src="/assets/post_effsize_plot_files/figure-html/unnamed-chunk-8-1.png" style="display: block; margin: auto;" />
+![](/assets/img/post_effsize_plot_files/figure-html/unnamed-chunk-8-1.png)
 
 
 
