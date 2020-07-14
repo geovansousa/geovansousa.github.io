@@ -195,5 +195,5 @@ es$metrics
 
 
 ### References
-1. Salvatore Mangiafico (2020). rcompanion: Functions to Support Extension Education Program Evaluation. R package version 2.3.25. https://CRAN.R-project.org/package=rcompanion
-2. Torchiano M (2020). _effsize: Efficient Effect Size Computation_. doi: 10.5281/zenodo.1480624 (URL: https://doi.org/10.5281/zenodo.1480624), R package version 0.8.0, <URL: https://CRAN.R-project.org/package=effsize>.
+1. Salvatore Mangiafico (2020). rcompanion: Functions to Support Extension Education Program Evaluation. R package version 2.3.25. [https://CRAN.R-project.org/package=rcompanion](https://CRAN.R-project.org/package=rcompanion)
+2. Torchiano M (2020). _effsize: Efficient Effect Size Computation_. doi: 10.5281/zenodo.1480624 ([URL: https://doi.org/10.5281/zenodo.1480624](URL: https://doi.org/10.5281/zenodo.1480624)), R package version 0.8.0, <[URL: https://CRAN.R-project.org/package=effsize](URL: https://CRAN.R-project.org/package=effsize)>.
