@@ -2,7 +2,6 @@
 title: 'Calculate and plot effect size with effsize_plot'
 author: ''
 date: "12/07/2020"
-bibliography: packages.bib
 share-img: /assets/img/post_effsize_plot_files/figure-html/unnamed-chunk-7-1.png
 ---
 
@@ -59,7 +58,7 @@ effsize_plot(x, g, method = 'r', paired = F,
 
 
 ### Details
-The packages `rcompanion` [@R-rcompanion] and `effsize` [@R-effsize] are required to calculate r and d/g effect size, respectively.
+The packages `rcompanion`<sup>1</sup> and `effsize`<sup>2</sup> are required to calculate r and d/g effect size, respectively.
 
 
 For more details about how each effect size is calculated, read the documentation of [`rcompanion`](https://cran.r-project.org/web/packages/rcompanion/rcompanion.pdf) and [`effsize`](https://cran.r-project.org/web/packages/effsize/effsize.pdf). 
@@ -192,6 +191,8 @@ es$metrics
 |y2       |  1.8059423| 0.0743|  0.4273615|  0.0290429| 0.8256801|
 |y3       | -2.4013729| 0.0186| -0.3932010| -0.7908367| 0.0044348|
 
-
+<div></div>
 
 ### References
+1. Salvatore Mangiafico (2020). rcompanion: Functions to Support Extension Education Program Evaluation. R package version 2.3.25. https://CRAN.R-project.org/package=rcompanion
+2. Torchiano M (2020). _effsize: Efficient Effect Size Computation_. doi: 10.5281/zenodo.1480624 (URL: https://doi.org/10.5281/zenodo.1480624), R package version 0.8.0, <URL: https://CRAN.R-project.org/package=effsize>.
