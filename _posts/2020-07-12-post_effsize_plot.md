@@ -24,37 +24,37 @@ effsize_plot(x, g, method = 'r', paired = F,
 ```
 
 ### Arguments
-`x`, `g` dataframe and vector with numerical and factor variables, respectively.
+`x`, `g`:   dataframe and vector with numerical and factor variables, respectively.
 
 
-`method` specify what effect size to compute: Wilcoxon r (`'r'`) or Cohen's d (`'d'`).
+`method`:   specify what effect size to compute: Wilcoxon r (`'r'`) or Cohen's d (`'d'`).
 
 
-`paired` logical. Wether the samples are paired.
+`paired`:   logical. Wether the samples are paired.
 
 
-`color`, `size` character or hexa specifying the errorbar and point colors, and size of points, respectively.
+`color`, `size`:    character or hexa specifying the errorbar and point colors, and size of points, respectively.
 
 
-`width` width of errorbar brackets.
+`width`:    width of errorbar brackets.
 
 
-`line.col`, `lwd`, `lty` color, width and type of the zero-crossing line, respectively.
+`line.col`, `lwd`, `lty`:   color, width and type of the zero-crossing line, respectively.
 
 
-`ggtheme` a ggplot2 theme function.
+`ggtheme`:    a ggplot2 theme function.
 
 
-`par_r` list of parameters to be passed to `WilcoxonR` or `WilcoxonPairedR` functions. Specify as `list(conf, type, R)`, where `conf` is the level of confidence interval, `type` is the type of bootstrap estimation for confidence interval ('norm' for ..., 'basic' for ..., 'perc' for ..., 'bca' for ...) and `R` is the number of bootstrap resampling.
+`par_r`:    list of parameters to be passed to `WilcoxonR` or `WilcoxonPairedR` functions. Specify as `list(conf, type, R)`, where `conf` is the level of confidence interval, `type` is the type of bootstrap estimation for confidence interval ('norm' for ..., 'basic' for ..., 'perc' for ..., 'bca' for ...) and `R` is the number of bootstrap resampling.
 
 
-`par_d` list of parameters to be passed to `cohen.d` function. Specify as `list(pooled, hedges.correction, conf.level)`, where `pooled` is a logical indicating whether should be used the pooled standard deviation (`TRUE`, default) or the whole sample standard deviation (`FALSE`), `hedges.correction` is a logical indicating if Hedges correction should be applied (`TRUE`) or not (`FALSE`, default) and `conf.level` is the level of confidence inteval.
+`par_d`:    list of parameters to be passed to `cohen.d` function. Specify as `list(pooled, hedges.correction, conf.level)`, where `pooled` is a logical indicating whether should be used the pooled standard deviation (`TRUE`, default) or the whole sample standard deviation (`FALSE`), `hedges.correction` is a logical indicating if Hedges correction should be applied (`TRUE`) or not (`FALSE`, default) and `conf.level` is the level of confidence inteval.
 
 
-`plot` logical indicating whether to plot (`TRUE`, default) or not (`FALSE`)
+`plot`:   logical indicating whether to plot (`TRUE`, default) or not (`FALSE`)
 
 
-`show` logical indicating whether to print the estimate, p-value, effect size and its confidence intervals (`TRUE`) or not (`FALSE`, default).
+`show`:   logical indicating whether to print the estimate, p-value, effect size and its confidence intervals (`TRUE`) or not (`FALSE`, default).
 
 
 ### Details
@@ -185,13 +185,14 @@ Getting `metrics`
 es$metrics
 ```
 
+
 |variable |          t|      p|          g|      lower|     upper|
 |:--------|----------:|------:|----------:|----------:|---------:|
 |y1       | -0.9761759| 0.3325| -0.1488374| -0.5432306| 0.2455558|
 |y2       |  1.8059423| 0.0743|  0.4273615|  0.0290429| 0.8256801|
 |y3       | -2.4013729| 0.0186| -0.3932010| -0.7908367| 0.0044348|
 
-<div></div>
+
 
 ### References
 1. Salvatore Mangiafico (2020). rcompanion: Functions to Support Extension Education Program Evaluation. R package version 2.3.25. https://CRAN.R-project.org/package=rcompanion
