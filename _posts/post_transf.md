@@ -1,11 +1,7 @@
 ---
-title: 
+title: "Transforming variables with the transf function"
 author: "Geovan"
 date: "19/06/2020"
-output: 
-  html_document:
-    df_print: kable
-    keep_md: yes
 ---
 
 
@@ -38,7 +34,6 @@ This said, we again will use the `iris` dataset for illustrate the function usag
 whos_norm(iris)$not_normal
 ```
 
-<div class="kable-table">
 
 |variable     |     W|      p|signif |
 |:------------|-----:|------:|:------|
@@ -46,7 +41,6 @@ whos_norm(iris)$not_normal
 |Petal.Length | 0.876| 0.0000|*      |
 |Petal.Width  | 0.902| 0.0000|*      |
 
-</div>
 
 
 Let's apply a log-transformation on `Sepal.Length` using `transf`. At first, obviously, you have to load the function:
@@ -74,14 +68,14 @@ All right, now let's transform `Sepal.Length`.
 transf(x = Sepal.Length, trans = 'log', data = iris)
 ```
 
-<img src="post_transf_files/figure-html/unnamed-chunk-4-1.png" style="display: block; margin: auto;" />
+<p align="center"><img src="/assets/img/post_transf_files/figure-html/unnamed-chunk-4-1.png" style="display: block; margin: auto;" width="500"/></p>
 
 So, we can see that the log-transforming `Sepal.Length` makes its Shapiro-Wilk p-value jump to 0.054.
 
 
 If we look to the density plot before and after transformation (I standardized the curves dividing by the sum to make it fall in a same scale and turns it easy to compare):
 
-<img src="post_transf_files/figure-html/unnamed-chunk-5-1.png" style="display: block; margin: auto;" />
+<p align="center"><img src="/assets/img/post_transf_files/figure-html/unnamed-chunk-5-1.png" style="display: block; margin: auto;" width="500"/></p>
 
 we realize that although the log-curve is not a perfect sine, it is nearer to a gaussian shape than the raw curve.
 
@@ -120,7 +114,7 @@ Or see the Q-Q plots:
 sl_transf$plot_grid
 ```
 
-<img src="post_transf_files/figure-html/unnamed-chunk-9-1.png" style="display: block; margin: auto;" />
+<p align="center"><img src="/assets/img/post_transf_files/figure-html/unnamed-chunk-9-1.png" style="display: block; margin: auto;" width="500"/></p>
 
 
 You can also apply the function to a subset of the data anytime:
@@ -130,7 +124,7 @@ You can also apply the function to a subset of the data anytime:
 transf(Petal.Length, 'sq', iris %>% subset(Species == 'versicolor'))
 ```
 
-<img src="post_transf_files/figure-html/unnamed-chunk-10-1.png" style="display: block; margin: auto;" />
+<p align="center"><img src="/assets/img/post_transf_files/figure-html/unnamed-chunk-10-1.png" style="display: block; margin: auto;" width="500"/></p>
 
 
 To use the function with a vector already saved in your Global Environment, just omit the `data` argument.
@@ -142,7 +136,7 @@ v <- rgamma(100,6)
 transf(v, 'log2')
 ```
 
-<img src="post_transf_files/figure-html/unnamed-chunk-11-1.png" style="display: block; margin: auto;" />
+<p align="center"><img src="/assets/img/post_transf_files/figure-html/unnamed-chunk-11-1.png" style="display: block; margin: auto;" width="500"/>
 
 ```r
 v[25:40] <- rnorm(length(25:40))*5
@@ -150,7 +144,7 @@ v[25:40] <- rnorm(length(25:40))*5
 transf(abs(v), 'sqrt')
 ```
 
-<img src="post_transf_files/figure-html/unnamed-chunk-11-2.png" style="display: block; margin: auto;" />
+<p align="center"><img src="/assets/img/post_transf_files/figure-html/unnamed-chunk-11-2.png" style="display: block; margin: auto;" width="500"/></p>
 
 
 #### Some considerations
@@ -166,7 +160,7 @@ v0 <- runif(100, min = 0, max = 2)
 transf(v0, 'inverse')
 ```
 
-<img src="post_transf_files/figure-html/unnamed-chunk-12-1.png" style="display: block; margin: auto;" />
+<p align="center"><img src="/assets/img/post_transf_files/figure-html/unnamed-chunk-12-1.png" style="display: block; margin: auto;" width="500"/></p>
 
 So, this is all, I guess.
 
