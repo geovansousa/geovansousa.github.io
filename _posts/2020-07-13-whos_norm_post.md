@@ -1,7 +1,7 @@
 ---
 title: A funtion for easy assessment of variables normality
 author: "Geovan"
-date: "18/06/2020"
+date: "19/06/2020"
 ---
 
 
