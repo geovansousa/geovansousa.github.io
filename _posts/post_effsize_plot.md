@@ -3,6 +3,7 @@ title: 'Calculate and plot effect size with effsize_plot'
 author: ''
 date: "12/07/2020"
 bibliography: packages.bib
+share-img: /assets/img/post_effsize_plot_files/figure-html/unnamed-chunk-7-1.png
 ---
 
 
@@ -110,7 +111,7 @@ effsize_plot(df[,2:4], df[,1], method = 'r', paired = F, plot = T, show = T,
              par_r = list(R = 500))
 ```
 
-<img src="/assets/img/post_effsize_plot_files/figure-html/unnamed-chunk-5-1.png" style="display: block; margin: auto;" />
+<p align="center"><img src="/assets/img/post_effsize_plot_files/figure-html/unnamed-chunk-5-1.png" style="display: block; margin: auto;" width="500"/></p>
 
 ```
 ##   variable      W      p      r   lower   upper
@@ -127,7 +128,7 @@ effsize_plot(df[,2:4], df[,1], method = 'd', paired = F, plot = T, show = T,
              color = 'forestgreen', size = 3, lty = 3, ggtheme = theme_light())
 ```
 
-<img src="/assets/img/post_effsize_plot_files/figure-html/unnamed-chunk-6-1.png" style="display: block; margin: auto;" />
+<p align="center"><img src="/assets/img/post_effsize_plot_files/figure-html/unnamed-chunk-6-1.png" style="display: block; margin: auto;" width="500"/></p>
 
 ```
 ##   variable          t      p          d       lower       upper
@@ -145,7 +146,7 @@ effsize_plot(df[,2:4], df[,1], method = 'd', paired = F, plot = T, show = T,
              par_d = list(hedges.correction = TRUE))
 ```
 
-<img src="/assets/img/post_effsize_plot_files/figure-html/unnamed-chunk-7-1.png" style="display: block; margin: auto;" />
+<p align="center"><img src="/assets/img/post_effsize_plot_files/figure-html/unnamed-chunk-7-1.png" style="display: block; margin: auto;" width="500"/></p>
 
 ```
 ##   variable          t      p          g       lower       upper
@@ -175,7 +176,7 @@ es$es_plot +
            size = 4, color = 'forestgreen')
 ```
 
-<img src="/assets/img/post_effsize_plot_files/figure-html/unnamed-chunk-8-1.png" style="display: block; margin: auto;" />
+<p align="center"><img src="/assets/img/post_effsize_plot_files/figure-html/unnamed-chunk-8-1.png" style="display: block; margin: auto;" width="500"/></p>
 
 
 
@@ -185,15 +186,12 @@ Getting `metrics`
 es$metrics
 ```
 
-<div class="kable-table">
-
 |variable |          t|      p|          g|      lower|     upper|
 |:--------|----------:|------:|----------:|----------:|---------:|
 |y1       | -0.9761759| 0.3325| -0.1488374| -0.5432306| 0.2455558|
 |y2       |  1.8059423| 0.0743|  0.4273615|  0.0290429| 0.8256801|
 |y3       | -2.4013729| 0.0186| -0.3932010| -0.7908367| 0.0044348|
 
-</div>
 
 
 ### References
