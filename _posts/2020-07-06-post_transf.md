@@ -3,6 +3,7 @@ title: "Transforming variables with the transf function"
 author: "Geovan"
 date: "06/07/2020"
 tags: [function, R]
+share-img: <img src="/assets/img/post_transf_files/figure-html/unnamed-chunk-4-1.png" style="display: block; margin: auto;" />
 ---
 
 
