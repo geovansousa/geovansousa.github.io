@@ -10,19 +10,19 @@ As I commented in a [previous post](https://geovanjr.github.io/2020-06-19-A-func
 
 I know transformation may be a *baby thing* for some people, but sometimes it is not for who is starting. Actually, the interesting in using `transf` is the time saving.
 
-The `transf` function allows for several transformations, including $log$ ($log_{2},~log_{10},~log_{e}$), z-score, square and cube roots, square, inverse and arcsine of the square root.
+The `transf` function allows for several transformations, including <img src="https://render.githubusercontent.com/render/math?math=log"> (<img src="https://render.githubusercontent.com/render/math?math=log_{2}, log_{10}, log_{e}">), z-score, square and cube roots, square, inverse and arcsine of the square root.
 
-So, assuming a variable $\mathbf{x}$, what `transf` actually does is:
+So, assuming a variable <img src="https://render.githubusercontent.com/render/math?math=\mathbf{x}">, what `transf` actually does is:
 
-* For $log$-transform, it calculates $log_{b}(x)$, where $b$ can be either $2$, $10$ or $e$ (i.e., $ln(x)$).
+* For $log$-transform, it calculates <img src="https://render.githubusercontent.com/render/math?math=log_{b}(x)">, where <img src="https://render.githubusercontent.com/render/math?math=b"> can be either 2, 10 or <img src="https://render.githubusercontent.com/render/math?math=e"> (i.e., <img src="https://render.githubusercontent.com/render/math?math=ln(x)">).
 
-* For square root transformation, it calculates $\sqrt{x}$, while for cube root, $\sqrt[3]{x}$.
+* For square root transformation, it calculates <img src="https://render.githubusercontent.com/render/math?math=\sqrt{x}">, while for cube root, <img src="https://render.githubusercontent.com/render/math?math=\sqrt[3]{x}">.
 
-* For square transforming, just $x^2$.
+* For square transforming, just <img src="https://render.githubusercontent.com/render/math?math=x^2">.
 
-* For inverse transformation, $\frac{1}{x}$.
+* For inverse transformation, <img src="https://render.githubusercontent.com/render/math?math=\frac{1}{x}">.
 
-* Finally, for centering, it just subtracts the mean of $\mathbf{x}$ ($\mu$) for each of its value, $x_i-\mu$. To standardize instead of centering, it just divides the centered $\mathbf{x}$ by its standard deviation ($\sigma$), scaling to z-score: $(x_i-\mu)/\sigma$. 
+* Finally, for centering, it just subtracts the mean of <img src="https://render.githubusercontent.com/render/math?math=\mathbf{x}"> (<img src="https://render.githubusercontent.com/render/math?math=\mu">) for each of its value, <img src="https://render.githubusercontent.com/render/math?math=x_i-\mu">. To standardize instead of centering, it just divides the centered <img src="https://render.githubusercontent.com/render/math?math=\mathbf{x}"> by its standard deviation (<img src="https://render.githubusercontent.com/render/math?math=\sigma">), scaling to z-score:<img src="https://render.githubusercontent.com/render/math?math=(x_i-\mu)/\sigma">. 
 
 
 
@@ -54,7 +54,7 @@ If you check the function, you will notice that it has 4 arguments: ``` transf(x
 
 * In the `x` argument you have to specify the variable you want to transform, exactly how it is named on your dataset.
 
-* In the `trans` argument, you will specify the transformation type as a string/character. It allows for `'log'` ($ln$), `'log2'`, `'log10'` (logarithm transformation), `'sqrt'` for square root, `'cuberoot'` for cubic root, `'sq'` for square, `'inverse'` for inverse, `'center'` for centering and `'z-score'` for z-score.
+* In the `trans` argument, you will specify the transformation type as a string/character. It allows for `'log'` (<img src="https://render.githubusercontent.com/render/math?math=ln(x)">), `'log2'`, `'log10'` (logarithm transformation), `'sqrt'` for square root, `'cuberoot'` for cubic root, `'sq'` for square, `'inverse'` for inverse, `'center'` for centering and `'z-score'` for z-score.
 
 * In the `data` argument, the dataset must be specified (`tibble` or `data.frame`).
 
@@ -98,7 +98,7 @@ names(sl_transf)
 ## [6] "plot_grid"
 ```
 
-Where `x` is the value of the transformed variable, `W` and `p` refers to the `shapiro.test`, `plot_raw` is the Q-Q plot of the untransformed `x`, `plot_trans` is the Q-Q plot of `x` after transformation and `plot_grid` is a grid containing both raw and transformed Q-Q plots. We can assess any of these elements with the dollar sign ($\$$).
+Where `x` is the value of the transformed variable, `W` and `p` refers to the `shapiro.test`, `plot_raw` is the Q-Q plot of the untransformed `x`, `plot_trans` is the Q-Q plot of `x` after transformation and `plot_grid` is a grid containing both raw and transformed Q-Q plots. We can assess any of these elements with the dollar sign ($).
 
 Maybe you want to save the transformed values on your dataset:
 
@@ -154,7 +154,7 @@ transf(abs(v), 'sqrt')
 
 * Except for z-score, cube root and square transformations, negative values in `x` are not allowed.
 
-* When 0 is an element of `x` ($0 ~ \epsilon ~ \mathbf{x}$), some mathematical operations get impossible, such as $log$ and $1/x$. If detected any 0, these transformations will be performed adding 0.5 to the actual value of `x` vector ($\mathbf{x'} = \mathbf{x} + 0.5$). It still can run the transformation, but some `NaN` may be produced and the data may be distorted (figure below). So, if you still want, use it for your own risk.
+* When 0 is an element of `x` (<img src="https://render.githubusercontent.com/render/math?math=0 ~ \epsilon ~ \mathbf{x}">), some mathematical operations get impossible, such as <img src="https://render.githubusercontent.com/render/math?math=log"> and <img src="https://render.githubusercontent.com/render/math?math=1/x">. If detected any 0, these transformations will be performed adding 0.5 to the actual value of `x` vector (<img src="https://render.githubusercontent.com/render/math?math=\mathbf{x’} = \mathbf{x} + 0.5">). It still can run the transformation, but some `NaN` may be produced and the data may be distorted (figure below). So, if you still want, use it for your own risk.
 
 
 ```r
@@ -169,3 +169,7 @@ transf(v0, 'inverse')
 
 So, this is all, I guess.
 
+
+<script type="text/javascript" async
+
+src="https://cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-MML-AM_CHTML">
