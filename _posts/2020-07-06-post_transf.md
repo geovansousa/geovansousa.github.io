@@ -1,7 +1,7 @@
 ---
 title: "Transforming variables with the transf function"
 author: "Geovan"
-date: "19/06/2020"
+date: "06/07/2020"
 ---
 
 
