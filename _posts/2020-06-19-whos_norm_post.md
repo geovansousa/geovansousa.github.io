@@ -3,6 +3,7 @@ title: A funtion for easy assessment of variables normality
 author: "Geovan"
 date: "19/06/2020"
 tags: [function, R]
+share-img: /assets/img/bcg.png
 ---
 
 
