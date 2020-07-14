@@ -22,7 +22,7 @@ So, assuming a variable <img src="https://render.githubusercontent.com/render/ma
 
 * For inverse transformation, <img src="https://render.githubusercontent.com/render/math?math=\frac{1}{x}">.
 
-* Finally, for centering, it just subtracts the mean of <img src="https://render.githubusercontent.com/render/math?math=\mathbf{x}"> (<img src="https://render.githubusercontent.com/render/math?math=\mu">) for each of its value, <img src="https://render.githubusercontent.com/render/math?math=x_i-\mu">. To standardize instead of centering, it just divides the centered <img src="https://render.githubusercontent.com/render/math?math=\mathbf{x}"> by its standard deviation (<img src="https://render.githubusercontent.com/render/math?math=\sigma">), scaling to z-score:<img src="https://render.githubusercontent.com/render/math?math=(x_i-\mu)/\sigma">. 
+* Finally, for centering, it just subtracts the mean of <img src="https://render.githubusercontent.com/render/math?math=\mathbf{x}"> (<img src="https://render.githubusercontent.com/render/math?math=\mu">) for each of its value, <img src="https://render.githubusercontent.com/render/math?math=x_i-\mu">. To standardize instead of centering, it just divides the centered <img src="https://render.githubusercontent.com/render/math?math=\mathbf{x}"> by its standard deviation (<img src="https://render.githubusercontent.com/render/math?math=\sigma">), scaling to z-score: <img src="https://render.githubusercontent.com/render/math?math=(x_i-\mu)/\sigma">. 
 
 
 
@@ -154,7 +154,7 @@ transf(abs(v), 'sqrt')
 
 * Except for z-score, cube root and square transformations, negative values in `x` are not allowed.
 
-* When 0 is an element of `x` (<img src="https://render.githubusercontent.com/render/math?math=0 ~ \epsilon ~ \mathbf{x}">), some mathematical operations get impossible, such as <img src="https://render.githubusercontent.com/render/math?math=log"> and <img src="https://render.githubusercontent.com/render/math?math=1/x">. If detected any 0, these transformations will be performed adding 0.5 to the actual value of `x` vector (<img src="https://render.githubusercontent.com/render/math?math=\mathbf{x’} = \mathbf{x} + 0.5">). It still can run the transformation, but some `NaN` may be produced and the data may be distorted (figure below). So, if you still want, use it for your own risk.
+* When 0 is an element of `x` (<img src="https://render.githubusercontent.com/render/math?math=0 \epsilon \mathbf{x}">), some mathematical operations get impossible, such as <img src="https://render.githubusercontent.com/render/math?math=log"> and <img src="https://render.githubusercontent.com/render/math?math=1/x">. If detected any 0, these transformations will be performed adding 0.5 to the actual value of `x` vector (<img src="https://render.githubusercontent.com/render/math?math=\mathbf{x'} = \mathbf{x} %2B 0.5">). It still can run the transformation, but some `NaN` may be produced and the data may be distorted (figure below). So, if you still want, use it for your own risk.
 
 
 ```r
@@ -168,8 +168,3 @@ transf(v0, 'inverse')
 
 
 So, this is all, I guess.
-
-
-<script type="text/javascript" async
-
-src="https://cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-MML-AM_CHTML">
