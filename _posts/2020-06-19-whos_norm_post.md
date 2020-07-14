@@ -98,15 +98,12 @@ normality_assess <- whos_norm(iris)
 normality_assess$not_normal # seeing just non-normal variables
 ```
 
-<div class="kable-table">
-
 |variable     |     W|      p|signif |
 |:------------|-----:|------:|:------|
 |Sepal.Length | 0.976| 0.0102|*      |
 |Petal.Length | 0.876| 0.0000|*      |
 |Petal.Width  | 0.902| 0.0000|*      |
 
-</div>
 
 Still, if you do not like your environment full of objects, you can call the output element whithout the need of saving it:
 
@@ -115,13 +112,11 @@ Still, if you do not like your environment full of objects, you can call the out
 whos_norm(iris)$normal
 ```
 
-<div class="kable-table">
 
 |variable    |     W|      p|signif |
 |:-----------|-----:|------:|:------|
 |Sepal.Width | 0.985| 0.1012|normal |
 
-</div>
 
 
 * **Data structure compatibilities**
