@@ -2,6 +2,7 @@
 title: "Transforming variables with the transf function"
 author: "Geovan"
 date: "06/07/2020"
+tags: [function, R]
 ---
 
 
