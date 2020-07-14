@@ -80,7 +80,7 @@ The output of `whos_norm` comprise a list of three elements: `all`, `normal` and
 
 Interpreting the output, we can easily see that only `Sepal.Width` has a normal distribution, while `Sepal.Length`, `Petal.Length` and `Petal.Width` both do not. We can check this looking for its density and Q-Q plot:
 
-<p align="center"><img src="/assets/img/whos_norm_post_files/figure-html/unnamed-chunk-5-1.png" style="display: block; margin: auto;" width= "400"/></p>
+<p align="center"><img src="/assets/img/whos_norm_post_files/figure-html/unnamed-chunk-5-1.png" style="display: block; margin: auto;" width= "500"/></p>
 
 
 * **Dealing with factor variables**
