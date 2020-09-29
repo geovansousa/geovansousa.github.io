@@ -4,6 +4,10 @@ title: Publications
 subtitle: 
 ---
 
+### Preprints
+* Varela, Y. M., De Almeida, R. N., de Menezes Galvão, A. C., **Junior, G. M. S.**, de Lima, A. C. L., da Silva, N. G., ... & Galvão-Coelho, N. L. (2020). Psychophysiological responses to group cognitive-behavioral therapy in depressive patients. DOI:
+[10.21203/rs.3.rs-62867/v1](https://www.researchsquare.com/article/rs-62867/v1)
+
 ### 2020
 * Sousa Júnior, G. M. D. (2020). *Análises da mediação e moderação do mindfulness sobre medidas de afeto, ansiedade e estresse em adultos jovens saudáveis* (Master's thesis, Brasil). ([Link](https://repositorio.ufrn.br/jspui/handle/123456789/28431)).
 
