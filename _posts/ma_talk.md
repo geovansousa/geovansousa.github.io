@@ -1,0 +1,22 @@
+---
+title: Talk sobre metanálise
+author: "Geovan"
+date: "05/10/2020"
+tags: [talk, statistic, meta-analysis]
+---
+
+O material utilizado na palestra sobre passos básicos para se realizar uma metanálise pode ser baixado [aqui](docs/meta-analysis_talk.pdf).
+
+Os vídeos com tutoriais de uso do Comprehensive Meta-Analysis podem ser solicitados via e-mail ([aqui](mailto:geovanjr1@gmail.com) ou [aqui](mailto:gmsj@neuro.ufrn.br)). Diversos tutoriais (em inglês) desse software podem ser encontrados [aqui](https://www.meta-analysis.com/pages/videotutorials.php?cart=B84V4905491) e os manuais (em inglês) [aqui](https://www.meta-analysis.com/pages/cma_manual.php?cart=B84V4905491).
+
+Existem bons guias a respeito de como utilizar os pacotes do R para metanálise ([meta](https://cran.r-project.org/web/packages/meta/meta.pdf), [metafor](http://metafor-project.org/doku.php/metafor), [dmetar](https://bookdown.org/MathiasHarrer/Doing_Meta_Analysis_in_R/)).
+
+Mais referências no material disponibilizado.
+
+**+ Links úteis:**
+
+<img src="https://i.pinimg.com/736x/43/e2/53/43e2535f66bd4a56db2772ce53a4cbf3.jpg" width="200">
+
+* [PRISMA statement](http://www.prisma-statement.org/)
+* [PROSPERO](https://www.crd.york.ac.uk/prospero/)
+* [Cochrane Handbook for Systematic Reviews of Interventions](https://training.cochrane.org/cochrane-handbook-systematic-reviews-interventions)
