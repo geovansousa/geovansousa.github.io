@@ -11,7 +11,7 @@ Varela, Y. M., De Almeida, R. N., de Menezes Galvão, A. C., **Junior, G. M. S.*
 
 ## 2020
 ***
-[**Análises da mediação e moderação do mindfulness sobre medidas de afeto, ansiedade e estresse em adultos jovens saudáveis**](https://repositorio.ufrn.br/jspui/handle/123456789/28431).{:target="_blank"}  
+[**Análises da mediação e moderação do mindfulness sobre medidas de afeto, ansiedade e estresse em adultos jovens saudáveis.**](https://repositorio.ufrn.br/jspui/handle/123456789/28431){:target="_blank"}  
 Sousa Júnior, G. M. D.  
 (Master's thesis)
 
