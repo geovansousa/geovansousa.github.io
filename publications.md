@@ -11,9 +11,12 @@ Varela, Y. M., De Almeida, R. N., de Menezes Galvão, A. C., **Junior, G. M. S.*
 
 ## 2020
 ***
-[**Análises da mediação e moderação do mindfulness sobre medidas de afeto, ansiedade e estresse em adultos jovens saudáveis**](https://repositorio.ufrn.br/jspui/handle/123456789/28431).{:target="_blank"}  Sousa Júnior, G. M. D.
+[**Análises da mediação e moderação do mindfulness sobre medidas de afeto, ansiedade e estresse em adultos jovens saudáveis**](https://repositorio.ufrn.br/jspui/handle/123456789/28431).{:target="_blank"}  
+Sousa Júnior, G. M. D.  
+(Master's thesis)
 
 ## 2019
 ***
-[**Acute effects of ayahuasca in a juvenile non-human primate model of depression.**](https://doi.org/10.1590/1516-4446-2018-0140){:target="_blank"}  da Silva, Flávia S., Silva, Erick A.S., **Sousa Jr., Geovan M. de**, Maia-de-Oliveira, João P., Soares-Rachetti, Vanessa de Paula, de Araujo, Draulio B., Sousa, Maria B.C., Lobão-Soares, Bruno, Hallak, Jaime, & Galvão-Coelho, Nicole L.  
+[**Acute effects of ayahuasca in a juvenile non-human primate model of depression.**](https://doi.org/10.1590/1516-4446-2018-0140){:target="_blank"}  
+da Silva, Flávia S., Silva, Erick A.S., **Sousa Jr., Geovan M. de**, Maia-de-Oliveira, João P., Soares-Rachetti, Vanessa de Paula, de Araujo, Draulio B., Sousa, Maria B.C., Lobão-Soares, Bruno, Hallak, Jaime, & Galvão-Coelho, Nicole L.  
 _Brazilian Journal of Psychiatry_
