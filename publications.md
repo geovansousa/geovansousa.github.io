@@ -15,4 +15,4 @@ Sousa Júnior, G. M. D.
 ## 2019
 [**Acute effects of ayahuasca in a juvenile non-human primate model of depression.**](https://doi.org/10.1590/1516-4446-2018-0140){:target="_blank"}  
 da Silva, Flávia S., Silva, Erick A.S., **Sousa Jr., Geovan M. de**, Maia-de-Oliveira, João P., Soares-Rachetti, Vanessa de Paula, de Araujo, Draulio B., Sousa, Maria B.C., Lobão-Soares, Bruno, Hallak, Jaime, & Galvão-Coelho, Nicole L.{:target="_blank"}  
-Brazilian Journal of Psychiatry
+_Brazilian Journal of Psychiatry_
