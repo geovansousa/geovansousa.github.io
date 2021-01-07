@@ -4,7 +4,10 @@ title: About me
 subtitle: 
 ---
 
-<p align="center"> <img src="/assets/img/avatar.jpg" alt="" width="300" /> </p>
+<p align="center"> <img src="/assets/img/avatar.jpg" alt="" width="300" border-radius:15px 50px /> </p>
+  img.rounded-corners {
+  border-radius: 30px;
+}
 
 I am Geovan Sousa, a neuroscientist interested in the neuroendocrine mechanisms of stress response and its implication on psychiatric disorders. Also, I am interested in tools for managing stress and treating depression, such as psychedelics and mindfulness.
 
