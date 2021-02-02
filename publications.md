@@ -9,6 +9,11 @@ subtitle:
 [**Psychophysiological responses to group cognitive-behavioral therapy in depressive patients.**](https://www.researchsquare.com/article/rs-62867/v1){:target="_blank"}  
 Varela, Y. M., De Almeida, R. N., de Menezes Galvão, A. C., **Junior, G. M. S.**, de Lima, A. C. L., da Silva, N. G., ... & Galvão-Coelho, N. L.
 
+## 2021
+***
+[**Brief mindfulness-based training and mindfulness trait attenuate psychological stress in university students: a randomized controlled trial.**](https://doi.org/10.1186/s40359-021-00520-x){:target="_blank"}  
+**Sousa, G.M.**, Lima-Araújo, G.L., Araújo, D.B., Sousa, M.B.C.
+
 ## 2020
 ***
 [**Análises da mediação e moderação do mindfulness sobre medidas de afeto, ansiedade e estresse em adultos jovens saudáveis.**](https://repositorio.ufrn.br/jspui/handle/123456789/28431){:target="_blank"}  
