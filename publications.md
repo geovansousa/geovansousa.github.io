@@ -12,7 +12,7 @@ Varela, Y. M., De Almeida, R. N., de Menezes Galvão, A. C., **Junior, G. M. S.*
 ## 2021
 ***
 [**Brief mindfulness-based training and mindfulness trait attenuate psychological stress in university students: a randomized controlled trial.**](https://doi.org/10.1186/s40359-021-00520-x){:target="_blank"}  
-**Sousa, G.M.**, Lima-Araújo, G.L., Araújo, D.B., Sousa, M.B.C.
+**Sousa, G.M.**, Lima-Araújo, G.L., Araújo, D.B., Sousa, M.B.C.  
 _BMC Psychology_
 
 ## 2020
