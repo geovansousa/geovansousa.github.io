@@ -1,7 +1,7 @@
 ---
 title: New paper on mindfulness and stress
 author: "Geovan"
-date: "16/02/2020"
+date: "16/02/2021"
 tags: [publication]
 share-img: https://media.springernature.com/full/springer-static/image/art%3A10.1186%2Fs40359-021-00520-x/MediaObjects/40359_2021_520_Fig2_HTML.png?as=webp
 ---
