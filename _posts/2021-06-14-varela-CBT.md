@@ -1,7 +1,7 @@
 ---
 title: Cognitive Behavioral Therapy improves psychophysiological measures of depression
 author: "Geovan"
-date: "16/02/2021"
+date: "14/06/2021"
 tags: [publication]
 share-img: https://media.springernature.com/full/springer-static/image/art%3A10.1007%2Fs12144-020-01324-9/MediaObjects/12144_2020_1324_Fig4_HTML.png?as=webp
 ---
