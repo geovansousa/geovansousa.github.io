@@ -1,5 +1,5 @@
 ---
-title: New paper on mindfulness and stress
+title: Brief mindfulness as a distress buffer
 author: "Geovan"
 date: "16/02/2021"
 tags: [publication]
