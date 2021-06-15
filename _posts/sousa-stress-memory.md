@@ -1,5 +1,5 @@
 ---
-title: How stress and memory interact? Does depression have something with it?
+title: How stress and memory interact?
 author: "Geovan"
 date: "16/02/2021"
 tags: [publication]
