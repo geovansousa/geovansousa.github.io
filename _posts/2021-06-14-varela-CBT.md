@@ -11,4 +11,4 @@ As expected this is more pronounced in remitted participants.
 
 We also show that improvements in sleep quality and salivary cortisol reach values similar to a healthy control. 
 
-You can see more about it ![here](https://doi.org/10.1007/s12144-020-01324-9).
+You can see more about it [here](https://doi.org/10.1007/s12144-020-01324-9).
