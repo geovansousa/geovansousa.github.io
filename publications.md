@@ -15,6 +15,10 @@ _BMC Psychology_
 Varela, Y. M., De Almeida, R. N., de Menezes Galvão, A. C., **de Sousa, G. M.**, de Lima, A. C. L., da Silva, N. G., ... & Galvão-Coelho, N. L.  
 _Current Psychology_
 
+[**Stress, memory, and implications for major depression.**](https://www.sciencedirect.com/science/article/pii/S0166432821002989?via%3Dihub){:target="_blank"}  
+**Sousa, G.M.**, Vargas, H.Q., Barbosa, F.F., Galvão-Coelho, N.L.  
+_Behavioural Brain Research_
+
 ## 2020
 ***
 [**Análises da mediação e moderação do mindfulness sobre medidas de afeto, ansiedade e estresse em adultos jovens saudáveis.**](https://repositorio.ufrn.br/jspui/handle/123456789/28431){:target="_blank"}  
