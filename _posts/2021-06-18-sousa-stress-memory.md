@@ -1,7 +1,7 @@
 ---
 title: How stress and memory interact?
 author: "Geovan"
-date: "16/02/2021"
+date: "18/06/2021"
 tags: [publication]
 share-img: https://ars.els-cdn.com/content/image/1-s2.0-S0166432821002989-gr2.jpg
 ---
