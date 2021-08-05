@@ -19,6 +19,10 @@ _Current Psychology_
 **Sousa, G.M.**, Vargas, H.Q., Barbosa, F.F., Galvão-Coelho, N.L.  
 _Behavioural Brain Research_
 
+[**Pathophysiology of Major Depression by Clinical Stages.**](https://www.frontiersin.org/articles/10.3389/fpsyg.2021.641779/full){:target="_blank"}  
+de Menezes Galvão, A.C., Almeida, R.N., **de Sousa, G.M.** \[...\] Galvão-Coelho, N.L.  
+_Frontiers in Psychology_
+
 ## 2020
 ***
 [**Análises da mediação e moderação do mindfulness sobre medidas de afeto, ansiedade e estresse em adultos jovens saudáveis.**](https://repositorio.ufrn.br/jspui/handle/123456789/28431){:target="_blank"}  
