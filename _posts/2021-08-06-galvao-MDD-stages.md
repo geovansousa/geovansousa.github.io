@@ -1,7 +1,7 @@
 ---
 title: Correlates of depression's clinical stages
 author: "Geovan"
-date: "15/06/2021"
+date: "06/08/2021"
 tags: [publication]
 share-img: https://www.frontiersin.org/files/Articles/641779/fpsyg-12-641779-HTML-r1/image_m/fpsyg-12-641779-g004.jpg
 ---
