@@ -25,11 +25,15 @@ _Frontiers in Psychology_
 
 [**Welfare Improvement by Enrichment Programs in Common Marmoset Females Under Social Isolation.**](https://www.tandfonline.com/doi/full/10.1080/10888705.2021.1968863){:target="_blank"}  
 de França Santos, M., Galvão, A.C.M., Silva, F.S., Silva, E.A.S., **Sousa, G.M.** \[...\] Galvão-Coelho, N.L.  
-_Journal of Applied Animal Welfare Science _
+_Journal of Applied Animal Welfare Science_
 
 [**Mental Health in COVID-19 Pandemic: A Meta-Review of Prevalence Meta-Analyses.**](https://www.frontiersin.org/articles/10.3389/fpsyg.2021.703838/full){:target="_blank"}  
 **Sousa G.M.Jr.**, Tavares, V.D.O., de Meiroz Grilo, M.L.P., Coelho MLG, Lima-Araújo, G.L., Schuch, F.B., Galvão-Coelho, N.L.  
 _Frontiers in Psychology_
+
+[**Potential biomarkers of major depression diagnosis and chronicity.**](https://www.frontiersin.org/articles/10.3389/fpsyg.2021.641779/full){:target="_blank"}  
+de Menezes Galvão, A.C., Almeida, R.N., **de Sousa Júnior, G.M.** \[...\] Galvão-Coelho, N.L.  
+_PloS ONE_
 
 ## 2020
 ***
