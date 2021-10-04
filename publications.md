@@ -31,7 +31,7 @@ _Journal of Applied Animal Welfare Science_
 **Sousa G.M.Jr.**, Tavares, V.D.O., de Meiroz Grilo, M.L.P., Coelho MLG, Lima-Araújo, G.L., Schuch, F.B., Galvão-Coelho, N.L.  
 _Frontiers in Psychology_
 
-[**Potential biomarkers of major depression diagnosis and chronicity.**](https://www.frontiersin.org/articles/10.3389/fpsyg.2021.641779/full){:target="_blank"}  
+[**Potential biomarkers of major depression diagnosis and chronicity.**](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0257251){:target="_blank"}  
 de Menezes Galvão, A.C., Almeida, R.N., **de Sousa Júnior, G.M.** \[...\] Galvão-Coelho, N.L.  
 _PloS ONE_
 
