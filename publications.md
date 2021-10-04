@@ -12,7 +12,7 @@ subtitle:
 _BMC Psychology_
 
 [**Psychophysiological responses to group cognitive-behavioral therapy in depressive patients.**](https://link.springer.com/article/10.1007/s12144-020-01324-9){:target="_blank"}  
-Varela, Y. M., De Almeida, R. N., de Menezes Galvão, A. C., **de Sousa, G. M.**, de Lima, A. C. L., da Silva, N. G., ... & Galvão-Coelho, N. L.  
+Varela, Y. M., De Almeida, R. N., de Menezes Galvão, A. C., **de Sousa, G. M.**, de Lima, A. C. L., da Silva, N. G., \[...\] & Galvão-Coelho, N. L.  
 _Current Psychology_
 
 [**Stress, memory, and implications for major depression.**](https://www.sciencedirect.com/science/article/pii/S0166432821002989?via%3Dihub){:target="_blank"}  
@@ -21,6 +21,14 @@ _Behavioural Brain Research_
 
 [**Pathophysiology of Major Depression by Clinical Stages.**](https://www.frontiersin.org/articles/10.3389/fpsyg.2021.641779/full){:target="_blank"}  
 de Menezes Galvão, A.C., Almeida, R.N., **de Sousa, G.M.** \[...\] Galvão-Coelho, N.L.  
+_Frontiers in Psychology_
+
+[**Welfare Improvement by Enrichment Programs in Common Marmoset Females Under Social Isolation.**](https://www.tandfonline.com/doi/full/10.1080/10888705.2021.1968863){:target="_blank"}  
+de França Santos, M., Galvão, A.C.M., Silva, F.S., Silva, E.A.S., **Sousa, G.M.** \[...\] Galvão-Coelho, N.L.  
+_Frontiers in Psychology_
+
+[**Mental Health in COVID-19 Pandemic: A Meta-Review of Prevalence Meta-Analyses.**](https://www.frontiersin.org/articles/10.3389/fpsyg.2021.703838/full){:target="_blank"}  
+**Sousa G.M.Jr.**, Tavares, V.D.O., de Meiroz Grilo, M.L.P., Coelho MLG, Lima-Araújo, G.L., Schuch, F.B., Galvão-Coelho, N.L.  
 _Frontiers in Psychology_
 
 ## 2020
