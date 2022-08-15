@@ -10,7 +10,7 @@ I am Geovan Sousa, a neuroscientist interested in the neuroendocrine mechanisms 
 
 ### Education
 
-- PhD student in [Psychobiology](https://psicobiologia4.wixsite.com/psicobiologia) (Physiological Psychology) ([Biosciences Center](https://cb.ufrn.br/), UFRN)
-- BSc student in Science & Technology ([School of Science and Technology](http://ect.ufrn.br/), UFRN)
+- PhD candidate in [Psychobiology](https://psicobiologia4.wixsite.com/psicobiologia) (Physiological Psychology) ([Biosciences Center](https://cb.ufrn.br/), UFRN)
+- BSc student in Science & Technology - Computer Technology ([School of Science and Technology](http://ect.ufrn.br/), UFRN)
 - MD in Neuroscience ([Brain Institute](http://neuro.ufrn.br/), UFRN, 2020)
 - Undergraduated in Biological Sciences ([UFRN](https://ufrn.br/)/Brazil, 2018)
