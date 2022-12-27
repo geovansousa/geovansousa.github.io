@@ -4,6 +4,28 @@ title: Publications
 subtitle: 
 ---
 
+## 2022
+***
+[**Moderators of ayahuasca’s biological antidepressant action.**](https://doi.org/10.3389/fpsyt.2022.1033816){:target="_blank"}  
+**Sousa, G.M.**, Tavares, V.D.O., \[...\] Galvão-Coelho, N.L.  
+_Frontiers in Psychiatry_
+
+[**The impact of a brief mindfulness training on interoception: A randomized controlled trial.**](https://doi.org/10.1371/journal.pone.0273864){:target="_blank"}  
+Lima-Araújo, G.L., **Sousa, G.M.**, Mendes, T., Demarzo, M., Farb, N., Araújo, D.B., Sousa, M.B.C.  
+_PloS ONE_
+
+[**Welfare Improvement by Enrichment Programs in Common Marmoset Females Under Social Isolation.**](https://www.tandfonline.com/doi/full/10.1080/10888705.2021.1968863){:target="_blank"}  
+de França Santos, M., Galvão, A.C.M., Silva, F.S., Silva, E.A.S., **Sousa, G.M.** \[...\] Galvão-Coelho, N.L.  
+_Journal of Applied Animal Welfare Science_
+
+[**Prophylactic action of ayahuasca in a non-human primate model of depressive-like behavior.**](https://www.frontiersin.org/articles/10.3389/fpsyg.2021.703838/full){:target="_blank"}  
+de Meiroz Grilo, M.P., **Sousa, G.M.** \[...\] Galvão-Coelho, N.L.  
+_Frontiers in Behavioral Neuroscience_
+
+[**Non-Judgement Prevents Positive Correlation Between Observe and State Anxiety in Healthy Non-Meditators.**](https://www.researchgate.net/profile/Geovan-Sousa/publication/359760755_Non-Judgement_Prevents_Positive_Correlation_Between_Observe_and_State_Anxiety_in_Healthy_Non-Meditators/links/624d7b7eb0cee02d69543504/Non-Judgement-Prevents-Positive-Correlation-Between-Observe-and-State-Anxiety-in-Healthy-Non-Meditators.pdf){:target="_blank"}  
+**Sousa, G.M.**, Lima-Araújo, G.L., Araújo, D.B., Sousa, M.B.C.  
+_Clinical Psychiatry_
+
 
 ## 2021
 ***
