@@ -3,7 +3,7 @@ title: Aulas de histologia
 author: "Geovan"
 date: "04/02/2023"
 tags: [class]
-share-img: /assets/img/fp.jpg
+share-img: /assets/img/200px-Liver-H&E.jpg
 ---
 
 Materiais utilizados nas aulas práticas de histologia para a disciplina de Bases da Biologia de Células e Tecidos
