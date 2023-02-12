@@ -6,7 +6,7 @@ tags: [class]
 share-img: /assets/img/200px-Liver-H&E.jpg
 ---
 
-Materiais utilizados nas aulas práticas de histologia para a disciplina de Bases da Biologia de Células e Tecidos
+Materiais utilizados nas aulas práticas de histologia para a disciplina de Bases da Biologia Celular, Molecular e Tecidual
 
 <img src="https://imageproxy.ifunny.co/crop:x-20,resize:640x,quality:90x75/images/b7f0502dd9b8bb8022125a3850417aa1654d6283cdace3cacd4383a40e2a0030_1.jpg" width="200">
 
