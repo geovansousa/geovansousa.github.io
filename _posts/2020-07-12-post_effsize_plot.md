@@ -6,7 +6,6 @@ share-img: /assets/img/post_effsize_plot_files/figure-html/unnamed-chunk-7-1.png
 ---
 
 
-
 ### Description
 Calculate and plot r and Cohen's d effect size and its confidence intervals.
 
