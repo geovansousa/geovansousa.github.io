@@ -7,4 +7,4 @@ title: Contact
 
 <img src="https://logodownload.org/wp-content/uploads/2014/09/twitter-logo-9.png" width="20" height="20"/>  You can also find me on [Twitter](http://twitter.com/geovansousa_).
 
-<img src="https://res-1.cloudinary.com/crunchbase-production/image/upload/c_lpad,h_256,w_256,f_auto,q_auto:eco/v1470150968/halqcskldv3ge9nkpjsq.png" width="20" height="20"/> Or, on [ResearchGate](https://www.researchgate.net/profile/Geovan-Sousa).
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/ResearchGate_icon_SVG.svg/800px-ResearchGate_icon_SVG.svg.png" width="20" height="20"/> Or, on [ResearchGate](https://www.researchgate.net/profile/Geovan-Sousa).
