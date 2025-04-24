@@ -31,7 +31,7 @@ round-avatar: false
 
 # If you want to have an image logo in the top-left corner instead of the title text,
 # then specify the following parameter
-title-img: /assets/img/avatar.jpg
+title-img: /assets/img/avatar_new.jpeg
 
 
 # --- Footer options --- #
