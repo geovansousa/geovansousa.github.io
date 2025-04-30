@@ -5,7 +5,7 @@ date: "30/04/2025"
 share-img: /assets/img/circuito-fcsc-polarizado.png
 ---
 
-Trata-se de um trabalho cujo objetivo era analisar um circuito resistivo CC. 
+Trata-se de um trabalho realizado para a disciplina de Fundamentos de Circuitos e Sistemas Controlados, cujo objetivo era analisar um circuito resistivo CC. 
 
 <p align="center">
   <img src="/assets/img/Grupo_08_Projeto1.png" width="450">
