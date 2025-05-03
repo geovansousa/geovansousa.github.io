@@ -29,16 +29,16 @@ effsize_plot(x, g, method = 'r', paired = F,
 `method`:   specify what effect size to compute: Wilcoxon r (`'r'`) or Cohen's d (`'d'`).
 
 
-`paired`:   logical. Wether the samples are paired.
+`paired`:   logical. Whether samples are paired (default = `F`).
 
 
-`color`, `size`:    character or hexa specifying the errorbar and point colors, and size of points, respectively.
+`color`, `size`:    character or hexa specifying the errorbar and point colours, and size of points, respectively.
 
 
 `width`:    width of errorbar brackets.
 
 
-`line.col`, `lwd`, `lty`:   color, width and type of the zero-crossing line, respectively.
+`line.col`, `lwd`, `lty`:   colour, width and type of the zero-crossing line, respectively.
 
 
 `ggtheme`:    a ggplot2 theme function.
@@ -47,7 +47,7 @@ effsize_plot(x, g, method = 'r', paired = F,
 `par_r`:    list of parameters to be passed to `WilcoxonR` or `WilcoxonPairedR` functions. Specify as `list(conf, type, R)`, where `conf` is the level of confidence interval, `type` is the type of bootstrap estimation for confidence interval ('norm' for ..., 'basic' for ..., 'perc' for ..., 'bca' for ...) and `R` is the number of bootstrap resampling.
 
 
-`par_d`:    list of parameters to be passed to `cohen.d` function. Specify as `list(pooled, hedges.correction, conf.level)`, where `pooled` is a logical indicating whether should be used the pooled standard deviation (`TRUE`, default) or the whole sample standard deviation (`FALSE`), `hedges.correction` is a logical indicating if Hedges correction should be applied (`TRUE`) or not (`FALSE`, default) and `conf.level` is the level of confidence inteval.
+`par_d`:    list of parameters to be passed to `cohen.d` function. Specify as `list(pooled, hedges.correction, conf.level)`, where `pooled` is a logical indicating whether should be used the pooled standard deviation (`TRUE`, default) or the whole sample standard deviation (`FALSE`), `hedges.correction` is a logical indicating if Hedges correction should be applied (`TRUE`) or not (`FALSE`, default) and `conf.level` is the level of the confidence inteval.
 
 
 `plot`:   logical indicating whether to plot (`TRUE`, default) or not (`FALSE`)
