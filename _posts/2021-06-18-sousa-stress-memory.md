@@ -8,7 +8,7 @@ share-img: https://ars.els-cdn.com/content/image/1-s2.0-S0166432821002989-gr2.jp
 
 Published on *Behavioural Brain Research*, this review is a collaboration with Nicole Galvão-Coelho, Flávio Barbosa, and Hector Vargas, where we gathered animal and 
 human studies to provide an outline of the physiological responses to stress, the main memory systems - as proposed by the *explicit-implict* model - and its 
-neural substrates, and the effects of acute/chronic stress in each memory system. 
+neural substrates, as well as the effects of acute and chronic stress in each memory system. 
 
 Finally, we also show how memory dysfunction and stress correlate with major depression, and illustrate how memory can be a useful tool for Psychiatry.
 
